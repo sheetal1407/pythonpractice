@@ -13,7 +13,7 @@ $ git clone git@github.com:sheetal1407/pythonpractice.git
 $ cd pythonpractice
 $ python3 helloworld.py
 ````
-Outout :
+Output:
 
 ````
 $ hello!! world
