@@ -2,7 +2,7 @@
 
 This is my 1st program , Please follow the below steps to execute.
 
-* Expected python3 is aledy installed
+* Expected python3 is already installed
 * Verify the python3 version using below command 
 	* python --version
 
