@@ -1,0 +1,25 @@
+# Check git status
+
+$ git status
+
+# Add the files to git local
+
+$ git add -A # this will add all files
+$ git add <file name>  # This will add selected file
+
+
+# commit git check in
+
+$ git commit -m "message"
+
+# push check-in to remote repo
+
+$ git push
+
+# Verify the change
+
+$ git diff HEAD@{1} <file name>
+
+# check log
+
+$ git log --graph <file name>
